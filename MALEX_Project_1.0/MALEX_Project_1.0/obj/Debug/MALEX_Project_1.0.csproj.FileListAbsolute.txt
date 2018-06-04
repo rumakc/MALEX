@@ -1,0 +1,9 @@
+C:\Users\alexm\source\repos\MALEX_Project_1.0\MALEX_Project_1.0\bin\Debug\MALEX_Project_1.0.exe.config
+C:\Users\alexm\source\repos\MALEX_Project_1.0\MALEX_Project_1.0\bin\Debug\MALEX_Project_1.0.exe
+C:\Users\alexm\source\repos\MALEX_Project_1.0\MALEX_Project_1.0\bin\Debug\MALEX_Project_1.0.pdb
+C:\Users\alexm\source\repos\MALEX_Project_1.0\MALEX_Project_1.0\obj\Debug\MALEX_Project_1.0.csprojResolveAssemblyReference.cache
+C:\Users\alexm\source\repos\MALEX_Project_1.0\MALEX_Project_1.0\obj\Debug\MALEX_Project_1._0.Properties.Resources.resources
+C:\Users\alexm\source\repos\MALEX_Project_1.0\MALEX_Project_1.0\obj\Debug\MALEX_Project_1.0.csproj.GenerateResource.Cache
+C:\Users\alexm\source\repos\MALEX_Project_1.0\MALEX_Project_1.0\obj\Debug\MALEX_Project_1.0.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\MALEX_Project_1.0\MALEX_Project_1.0\obj\Debug\MALEX_Project_1.0.exe
+C:\Users\alexm\source\repos\MALEX_Project_1.0\MALEX_Project_1.0\obj\Debug\MALEX_Project_1.0.pdb
