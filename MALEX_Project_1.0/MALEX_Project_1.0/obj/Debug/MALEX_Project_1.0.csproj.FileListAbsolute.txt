@@ -7,3 +7,11 @@ C:\Users\alexm\source\repos\MALEX_Project_1.0\MALEX_Project_1.0\obj\Debug\MALEX_
 C:\Users\alexm\source\repos\MALEX_Project_1.0\MALEX_Project_1.0\obj\Debug\MALEX_Project_1.0.csproj.CoreCompileInputs.cache
 C:\Users\alexm\source\repos\MALEX_Project_1.0\MALEX_Project_1.0\obj\Debug\MALEX_Project_1.0.exe
 C:\Users\alexm\source\repos\MALEX_Project_1.0\MALEX_Project_1.0\obj\Debug\MALEX_Project_1.0.pdb
+C:\Users\alexm\Source\Repos\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\bin\Debug\MALEX_Project_1.0.exe.config
+C:\Users\alexm\Source\Repos\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\bin\Debug\MALEX_Project_1.0.exe
+C:\Users\alexm\Source\Repos\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\bin\Debug\MALEX_Project_1.0.pdb
+C:\Users\alexm\Source\Repos\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\obj\Debug\MALEX_Project_1._0.Properties.Resources.resources
+C:\Users\alexm\Source\Repos\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\obj\Debug\MALEX_Project_1.0.csproj.GenerateResource.cache
+C:\Users\alexm\Source\Repos\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\obj\Debug\MALEX_Project_1.0.csproj.CoreCompileInputs.cache
+C:\Users\alexm\Source\Repos\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\obj\Debug\MALEX_Project_1.0.exe
+C:\Users\alexm\Source\Repos\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\obj\Debug\MALEX_Project_1.0.pdb
