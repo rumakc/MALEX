@@ -15,3 +15,12 @@ C:\Users\alexm\Source\Repos\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\obj\Debug\
 C:\Users\alexm\Source\Repos\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\obj\Debug\MALEX_Project_1.0.csproj.CoreCompileInputs.cache
 C:\Users\alexm\Source\Repos\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\obj\Debug\MALEX_Project_1.0.exe
 C:\Users\alexm\Source\Repos\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\obj\Debug\MALEX_Project_1.0.pdb
+C:\Users\alexm\Source\Repos\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\bin\Debug\Google.Protobuf.dll
+C:\Users\alexm\Source\Repos\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\bin\Debug\MySql.Data.dll
+C:\Users\alexm\Source\Repos\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alexm\Source\Repos\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\bin\Debug\Google.Protobuf.xml
+C:\Users\alexm\Source\Repos\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\bin\Debug\MySql.Data.xml
+C:\Users\alexm\Source\Repos\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alexm\Source\Repos\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\obj\Debug\MALEX_Project_1.0.csprojAssemblyReference.cache
+C:\Users\alexm\Source\Repos\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\obj\Debug\MALEX_Project_1.0.csproj.CopyComplete
+C:\Users\alexm\Source\Repos\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\obj\Debug\MALEX_Project_1._0.Form1.resources
