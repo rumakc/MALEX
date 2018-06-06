@@ -23,5 +23,14 @@ namespace MALEX_Project_1._0
 
             ex.GetTicker();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            // создаем подключение
+            Trader = new BinanceTrader();// { LogLevel = LogLevels.Debug };
+
+            Trader.Key = Key.Text;
+            Trader.Secret = Secret.Password;
+        }
     }
 }
