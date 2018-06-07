@@ -81,7 +81,7 @@ namespace Market
         //-- Метод запроса данных из API (Синхронный)
         //-------------------------------------------------------------------------------------
 
-        public string ApiQuery(string apiName, IDictionary<string, string> req)
+        private string ApiQuery(string apiName, IDictionary<string, string> req)
         {
             using (var wb = new WebClient())
             {
@@ -104,7 +104,7 @@ namespace Market
         //-- Метод запроса данных из API (Асинхронный, возвращающий Json)
         //-------------------------------------------------------------------------------------
 
-        public async Task<string> ApiQueryAsync(string apiName, IDictionary<string, string> req)
+        private async Task<string> ApiQueryAsync(string apiName, IDictionary<string, string> req)
         {
             using (var client = new HttpClient())
             {
@@ -128,7 +128,7 @@ namespace Market
         //-- Метод запроса данных из API (Асинхронный, возвращающий статус)
         //-------------------------------------------------------------------------------------
 
-        public async Task<HttpStatusCode> ApiQueryAsyncEx(string apiName, IDictionary<string, string> req)
+        private async Task<HttpStatusCode> ApiQueryAsyncEx(string apiName, IDictionary<string, string> req)
         {
             using (var client = new HttpClient())
             {
@@ -156,21 +156,26 @@ namespace Market
         //-------------------------------------------------------------------------------------
         //-- Методы получения данных
         //-------------------------------------------------------------------------------------
-        /*
-        public string AccountInfo ()
-        {
-           var result = ApiQuery("user_info", new Dictionary<string, string>());
 
+        public string AccountInfo()
+        {
+            //-- Объявление переменных
+            string type_property = _query[5];
+            var result = "";
+
+            //-- Выбор метода выполнения (синхронное/асинхронное)
+            if (_async)
+            {
+                result = ApiQueryAsync(type_property, new Dictionary<string, string>()).Result;
+            }
+            else
+            {
+                result = ApiQuery(type_property, new Dictionary<string, string>());
+            }
+
+            return result;
         }
-        */
+
     }
 
 }
-
-
-
-
-
-
-
-

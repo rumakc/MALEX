@@ -345,3 +345,4 @@ C:\Users\alexm\Source\Repos\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\bin\Debug\
 C:\Users\alexm\Source\Repos\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\bin\Debug\System.Reflection.Metadata.xml
 C:\Users\alexm\Source\Repos\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\bin\Debug\xNet.xml
 C:\Users\alexm\Source\Repos\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\alexm\Source\Repos\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\obj\Debug\MALEX_Project_1.0.csprojAssemblyReference.cache
