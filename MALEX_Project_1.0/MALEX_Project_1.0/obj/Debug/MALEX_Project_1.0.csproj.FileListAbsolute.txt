@@ -21,7 +21,6 @@ C:\Users\alexm\Source\Repos\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\bin\Debug\
 C:\Users\alexm\Source\Repos\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\bin\Debug\Google.Protobuf.xml
 C:\Users\alexm\Source\Repos\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\bin\Debug\MySql.Data.xml
 C:\Users\alexm\Source\Repos\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\bin\Debug\Newtonsoft.Json.xml
-C:\Users\alexm\Source\Repos\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\obj\Debug\MALEX_Project_1.0.csprojAssemblyReference.cache
 C:\Users\alexm\Source\Repos\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\obj\Debug\MALEX_Project_1.0.csproj.CopyComplete
 C:\Users\alexm\Source\Repos\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\obj\Debug\MALEX_Project_1._0.Form1.resources
 D:\Maxim Disk\My Programs\VisualStudio\MALEX\MALEX_Project_1.0\MALEX_Project_1.0\bin\Debug\MALEX_Project_1.0.exe.config

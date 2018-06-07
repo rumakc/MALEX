@@ -9,6 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Market;
 
 namespace MALEX_Project_1._0
 {
@@ -21,9 +22,10 @@ namespace MALEX_Project_1._0
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MarketExmo ex = new MarketExmo();
+            //MarketExmo ex = new MarketExmo();
 
-            ex.GetTicker();
+            //ex.GetTicker();
+            
         }
 
         private void button2_Click(object sender, EventArgs e)
